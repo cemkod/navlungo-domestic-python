@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "navlungo_client"
-version = "0.1"
+version = "2025.1006-alpha"
 authors = [
     { name = "Cem Uzunoglu, Deepseek R1, Gemini Pro 2.0", email = "jimqode@gmail.com" },
 ]
